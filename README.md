@@ -1,6 +1,6 @@
 # Name
 
-write-your-name
+Alexander Tsankov
 
 # How many points have you earned?
 
@@ -20,11 +20,11 @@ fill-in-your-answer
 
 ## Link (2 points)
 
-[title-of-the-article](http://link-to-an-interesting-visualization-involving-a-map)
+[Interesting Map of Nearby Fast Food places](http://flowingdata.com/2014/06/24/burger-place-geography/)
 
 ## What new knowledge or insight have you gained from this visualization? (6 points)
 
-fill-in-your-answer
+I've learned how easy it is to create really slick visualizations just using Tableau.
 
 # Tableau (I) (7 points x 3 + 2 points x 10 + 3 points x 10 = 71 points)
 
@@ -32,97 +32,97 @@ fill-in-your-answer
 
 ### 1 (7 points)
 
-![image](image.png?raw=true)
+![image](cp1.png)
 
 ### 2 (7 points)
 
-![image](image.png?raw=true)
+![image](cp2.png)
 
 ### 3 (7 points)
 
-![image](image.png?raw=true)
+![image](cp3.png)
 
 ## Challenges
 
 ### 1 (2 points)
 
-![image](image.png?raw=true)
+![image](t1.png)
 
 ### 2 (2 points)
 
-![image](image.png?raw=true)
+![image](t2.png)
 
 ### 3 (2 points)
 
-![image](image.png?raw=true)
+![image](t3.png)
 
 ### 4 (2 points)
 
-![image](image.png?raw=true)
+![image](t4.png)
 
 ### 5 (2 points)
 
-![image](image.png?raw=true)
+![image](t5.png)
 
 ### 6 (2 points)
 
-![image](image.png?raw=true)
+![image](t6.png)
 
 ### 7 (2 points)
 
-![image](image.png?raw=true)
+![image](t7.png)
 
 ### 8 (2 points)
 
-![image](image.png?raw=true)
+![image](t8.png)
 
 ### 9 (2 points)
 
-![image](image.png?raw=true)
+![image](t9.png)
 
 ### 10 (2 points)
 
-![image](image.png?raw=true)
+![image](t10.png)
 
 ### 11 (3 points)
 
-![image](image.png?raw=true)
+![image](t11.png)
 
 ### 12 (3 points)
 
-![image](image.png?raw=true)
+![image](t12.png)
 
 ### 13 (3 points)
 
-![image](image.png?raw=true)
+![image](t13.png)
 
 ### 14 (3 points)
 
-![image](image.png?raw=true)
+![image](t14.png)
 
 ### 15 (3 points)
 
-![image](image.png?raw=true)
+![image](t15.png)
 
 ### 16 (3 points)
 
-![image](image.png?raw=true)
+![image](t16.png)
 
 ### 17 (3 points)
 
-![image](image.png?raw=true)
+![image](t17.png)
 
 ### 18 (3 points)
 
-![image](image.png?raw=true)
+![image](t18.png)
 
 ### 19 (3 points)
 
-![image](image.png?raw=true)
+![image](t18.png)
 
 ### 20 (3 points)
 
-![image](image.png?raw=true)
+![image](t20.png)
 
 
 # Analysis 1
