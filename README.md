@@ -1,10 +1,10 @@
 # Name
 
-write-your-name
+Justin McBride
 
 # How many points have you earned?
 
-0/100
+100/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
@@ -32,97 +32,97 @@ fill-in-your-answer
 
 ### 1 (7 points)
 
-![image](image.png?raw=true)
+![image](pics/tabcp1.png?raw=true)
 
 ### 2 (7 points)
 
-![image](image.png?raw=true)
+![image](pics/tabcp2.png?raw=true)
 
 ### 3 (7 points)
 
-![image](image.png?raw=true)
+![image](pics/tabcp3.png?raw=true)
 
 ## Challenges
 
 ### 1 (2 points)
 
-![image](image.png?raw=true)
+![image](pics/tabch1.png?raw=true)
 
 ### 2 (2 points)
 
-![image](image.png?raw=true)
+![image](pics/tabch2.png?raw=true)
 
 ### 3 (2 points)
 
-![image](image.png?raw=true)
+![image](pics/tabch3.png?raw=true)
 
 ### 4 (2 points)
 
-![image](image.png?raw=true)
+![image](pics/tabch4.png?raw=true)
 
 ### 5 (2 points)
 
-![image](image.png?raw=true)
+![image](pics/tabch5.png?raw=true)
 
 ### 6 (2 points)
 
-![image](image.png?raw=true)
+![image](pics/tabch6.png?raw=true)
 
 ### 7 (2 points)
 
-![image](image.png?raw=true)
+![image](pics/tabch7.png?raw=true)
 
 ### 8 (2 points)
 
-![image](image.png?raw=true)
+![image](pics/tabch8.png?raw=true)
 
 ### 9 (2 points)
 
-![image](image.png?raw=true)
+![image](pics/tabch9.png?raw=true)
 
 ### 10 (2 points)
 
-![image](image.png?raw=true)
+![image](pics/tabch10.png?raw=true)
 
 ### 11 (3 points)
 
-![image](image.png?raw=true)
+![image](pics/tabch11.png?raw=true)
 
 ### 12 (3 points)
 
-![image](image.png?raw=true)
+![image](pics/tabch12.png?raw=true)
 
 ### 13 (3 points)
 
-![image](image.png?raw=true)
+![image](pics/tabch13.png?raw=true)
 
 ### 14 (3 points)
 
-![image](image.png?raw=true)
+![image](pics/tabch14.png?raw=true)
 
 ### 15 (3 points)
 
-![image](image.png?raw=true)
+![image](pics/tabch15.png?raw=true)
 
 ### 16 (3 points)
 
-![image](image.png?raw=true)
+![image](pics/tabch16.png?raw=true)
 
 ### 17 (3 points)
 
-![image](image.png?raw=true)
+![image](pics/tabch17.png?raw=true)
 
 ### 18 (3 points)
 
-![image](image.png?raw=true)
+![image](pics/tabch18.png?raw=true)
 
 ### 19 (3 points)
 
-![image](image.png?raw=true)
+![image](pics/tabch19.png?raw=true)
 
 ### 20 (3 points)
 
-![image](image.png?raw=true)
+![image](pics/tabch20.png?raw=true)
 
 
 # Analysis 1
@@ -131,12 +131,12 @@ fill-in-your-answer
 
 ### 1 (7 points)
 
-![image](image.png?raw=true)
+![image](pics/ana1.png?raw=true)
 
 ### 2 (7 points)
 
-![image](image.png?raw=true)
+![image](pics/ana2.png?raw=true)
 
 ### 3 (7 points)
 
-![image](image.png?raw=true)
+![image](pics/ana3.png?raw=true)
