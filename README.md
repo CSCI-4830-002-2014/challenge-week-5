@@ -131,11 +131,11 @@ I've learned how easy it is to create really slick visualizations just using Tab
 
 ### 1 (7 points)
 
-![image](image.png?raw=true)
+![image](cp2.1.png)
 
 ### 2 (7 points)
 
-![image](image.png?raw=true)
+![image](cp2.2png)
 
 ### 3 (7 points)
 
