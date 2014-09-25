@@ -1,10 +1,10 @@
 # Name
 
-write-your-name
+Adrian Chen
 
 # How many points have you earned?
 
-0/100
+100/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
@@ -20,11 +20,11 @@ fill-in-your-answer
 
 ## Link (2 points)
 
-[title-of-the-article](http://link-to-an-interesting-visualization-involving-a-map)
+[Most Popular Porn Searches by state.](http://flowingdata.com/2013/09/03/most-popular-porn-searches-by-state/)
 
 ## What new knowledge or insight have you gained from this visualization? (6 points)
 
-fill-in-your-answer
+Porn companies gather and release data just like any other company.
 
 # Tableau (I) (7 points x 3 + 2 points x 10 + 3 points x 10 = 71 points)
 
