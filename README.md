@@ -4,17 +4,17 @@ Alexander Tsankov
 
 # How many points have you earned?
 
-0/100
+98/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+3
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+Tableau challenge 6. Just couldn't get the right look to it. 
 
 # Show and tell (8 points)
 
@@ -65,8 +65,6 @@ I've learned how easy it is to create really slick visualizations just using Tab
 ![image](t5.png)
 
 ### 6 (2 points)
-
-![image](t6.png)
 
 ### 7 (2 points)
 
@@ -135,8 +133,8 @@ I've learned how easy it is to create really slick visualizations just using Tab
 
 ### 2 (7 points)
 
-![image](cp2.2png)
+![image](cp2.2.png)
 
 ### 3 (7 points)
 
-![image](image.png?raw=true)
+![image](cp2.3.png)
