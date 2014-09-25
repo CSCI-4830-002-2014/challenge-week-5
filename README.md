@@ -1,12 +1,8 @@
 # Name
-
-write-your-name
+Dawson Botsford
 
 # How many points have you earned?
-
-0/100
-
-(Make your own calculation and replace the number 0 with the points you think you've earned.)
+100/100
 
 # How many hours have you spent on this?
 
@@ -20,11 +16,12 @@ fill-in-your-answer
 
 ## Link (2 points)
 
-[title-of-the-article](http://link-to-an-interesting-visualization-involving-a-map)
+[Visualizing Bitcoins](http://www.fastcoexist.com/3020559/visualized/visualizing-bitcoins-amazingly-fast-spread-around-the-world)
 
 ## What new knowledge or insight have you gained from this visualization? (6 points)
+I was not aware that bitcoin downloads are so prominent in Europe. The density of downloads is just as dense in Italy as it is in Florida!
 
-fill-in-your-answer
+I was also unaware that the Midwest of the United Status is as unpopulated as it is. there were so few downloads in areas like Kansas.
 
 # Tableau (I) (7 points x 3 + 2 points x 10 + 3 points x 10 = 71 points)
 
