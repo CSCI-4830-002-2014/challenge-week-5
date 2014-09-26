@@ -116,13 +116,10 @@ fill-in-your-answer
 
 ![image](image.png?raw=true)
 
-### 19 (3 points)
+### 19 (6 points)
 
 ![image](image.png?raw=true)
 
-### 20 (3 points)
-
-![image](image.png?raw=true)
 
 
 # Analysis 1
