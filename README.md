@@ -43,7 +43,7 @@ I was also unaware that the Midwest of the United Status is as unpopulated as it
 
 ### 1 (2 points)
 
-![image]http://i.imgur.com/DEtUxRb.png)
+![image](http://i.imgur.com/DEtUxRb.png)
 
 ### 2 (2 points)
 
@@ -59,7 +59,7 @@ I was also unaware that the Midwest of the United Status is as unpopulated as it
 
 ### 5 (2 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/ToVONyv.png)
 
 ### 6 (2 points)
 
