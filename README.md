@@ -30,15 +30,15 @@ fill-in-your-answer
 
 ### 1 (7 points)
 
-![image](screenshots/tableau/checkpoint0.png?raw=true)
+![image](screenshots/tableau/checkpoint1.png?raw=true)
 
 ### 2 (7 points)
 
-![image](screenshots/tableau/checkpoint1.png?raw=true)
+![image](screenshots/tableau/checkpoint2.png?raw=true)
 
 ### 3 (7 points)
 
-![image](screenshots/tableau/checkpoint2.png?raw=true)
+![image](screenshots/tableau/checkpoint3.png?raw=true)
 
 ## Challenges
 
