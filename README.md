@@ -1,6 +1,6 @@
 # Name
 
-write-your-name
+Alexia Newgord
 
 # How many points have you earned?
 
@@ -20,11 +20,11 @@ fill-in-your-answer
 
 ## Link (2 points)
 
-[title-of-the-article](http://link-to-an-interesting-visualization-involving-a-map)
+![title-of-the-article](http://www.viewsoftheworld.net/wp-content/uploads/2014/09/Scotland2014_VotesTurnout.jpg)
 
 ## What new knowledge or insight have you gained from this visualization? (6 points)
 
-fill-in-your-answer
+Scottland had an extremely high voter turnout for the recent vote for independence, so I was interested to see what the outcome was across the country.  This graphic is particularly interesting because it shows separate graphs of the percent voter turnout and the percent vote share.  This made me want to compare the two graphs and I observed that there was a positive correlation between the percent of voter turnout and the number of individuals who voted "no". 
 
 # Tableau (I) (7 points x 3 + 2 points x 10 + 3 points x 10 = 71 points)
 
