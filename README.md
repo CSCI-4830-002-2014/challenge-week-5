@@ -107,15 +107,15 @@ I was also unaware that the Midwest of the United Status is as unpopulated as it
 
 ### 17 (3 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/J2tQDS4.png)
 
 ### 18 (3 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/ltz5AQ2.png)
 
 ### 19 (3 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/PfpAFo0.png)
 
 ### 20 (3 points)
 
