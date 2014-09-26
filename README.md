@@ -1,6 +1,6 @@
 # Name
 
-write-your-name
+Jake Charland
 
 # How many points have you earned?
 
@@ -32,93 +32,93 @@ fill-in-your-answer
 
 ### 1 (7 points)
 
-![image](image.png?raw=true)
+![image](cp1.png?raw=true)
 
 ### 2 (7 points)
 
-![image](image.png?raw=true)
+![image](cp2.png?raw=true)
 
 ### 3 (7 points)
 
-![image](image.png?raw=true)
+![image](cp3.png?raw=true)
 
 ## Challenges
 
 ### 1 (2 points)
 
-![image](image.png?raw=true)
+![image](challeng1.png?raw=true)
 
 ### 2 (2 points)
 
-![image](image.png?raw=true)
+![image](challeng2.png?raw=true)
 
 ### 3 (2 points)
 
-![image](image.png?raw=true)
+![image](challeng3.png?raw=true)
 
 ### 4 (2 points)
 
-![image](image.png?raw=true)
+![image](challeng4.png?raw=true)
 
 ### 5 (2 points)
 
-![image](image.png?raw=true)
+![image](challeng5.png?raw=true)
 
 ### 6 (2 points)
 
-![image](image.png?raw=true)
+![image](challeng6.png?raw=true)
 
 ### 7 (2 points)
 
-![image](image.png?raw=true)
+![image](challeng7.png?raw=true)
 
 ### 8 (2 points)
 
-![image](image.png?raw=true)
+![image](challeng8.png?raw=true)
 
 ### 9 (2 points)
 
-![image](image.png?raw=true)
+![image](challeng9.png?raw=true)
 
 ### 10 (2 points)
 
-![image](image.png?raw=true)
+![image](challeng10.png?raw=true)
 
 ### 11 (3 points)
 
-![image](image.png?raw=true)
+![image](challeng11.png?raw=true)
 
 ### 12 (3 points)
 
-![image](image.png?raw=true)
+![image](challeng12.png?raw=true)
 
 ### 13 (3 points)
 
-![image](image.png?raw=true)
+![image](challeng13.png?raw=true)
 
 ### 14 (3 points)
 
-![image](image.png?raw=true)
+![image](challeng14.png?raw=true)
 
 ### 15 (3 points)
 
-![image](image.png?raw=true)
+![image](challeng15.png?raw=true)
 
 ### 16 (3 points)
 
-![image](image.png?raw=true)
+![image](challeng16.png?raw=true)
 
 ### 17 (3 points)
 
-![image](image.png?raw=true)
+![image](challeng17.png?raw=true)
 
 ### 18 (3 points)
 
-![image](image.png?raw=true)
+![image](challeng18.png?raw=true)
 
 ### 19 (6 points)
 
-![image](image.png?raw=true)
+![image](challeng19.png?raw=true)
 
 
 
