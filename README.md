@@ -1,20 +1,19 @@
 # Name
 
-write-your-name
+Niklas Fejes
 
 # How many points have you earned?
 
-0/100
-
-(Make your own calculation and replace the number 0 with the points you think you've earned.)
+21/100
 
 # How many hours have you spent on this?
 
 fill-in-your-answer
+**note**: Thursday: 3 h
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+Setting up Windows (Tableau does not support Linux)
 
 # Show and tell (8 points)
 
@@ -131,12 +130,12 @@ fill-in-your-answer
 
 ### 1 (7 points)
 
-![image](image.png?raw=true)
+![image](screenshots/analysis/checkpoint1.png?raw=true)
 
 ### 2 (7 points)
 
-![image](image.png?raw=true)
+![image](screenshots/analysis/checkpoint2.png?raw=true)
 
 ### 3 (7 points)
 
-![image](image.png?raw=true)
+![image](screenshots/analysis/checkpoint3.png?raw=true)
