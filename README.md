@@ -4,12 +4,11 @@ Niklas Fejes
 
 # How many points have you earned?
 
-21/100
+92/100
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
-**note**: Thursday: 3 h
+6 hours
 
 # What is the most difficult part about this week's challenge?
 
@@ -115,13 +114,10 @@ fill-in-your-answer
 
 ![image](screenshots/tableau/challenge18.png?raw=true)
 
-### 19 (3 points)
+### 19 (6 points)
 
 ![image](screenshots/tableau/challenge19.png?raw=true)
 
-### 20 (3 points)
-
-![image](screenshots/tableau/challenge20.png?raw=true)
 
 
 # Analysis 1
