@@ -4,7 +4,7 @@ Chris Wittenberg
 
 # How many points have you earned?
 
-71/100
+79/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
@@ -20,11 +20,11 @@ fill-in-your-answer
 
 ## Link (2 points)
 
-[title-of-the-article](http://link-to-an-interesting-visualization-involving-a-map)
+[wind map](http://www.isgtw.org/sites/default/files/img_2012/wind.JPG)
 
 ## What new knowledge or insight have you gained from this visualization? (6 points)
 
-fill-in-your-answer
+It gave me great insight into the wind patterns of the United States. I knew that the North East was pretty windy, but I had no idea that it was much windier than everywhere else, especially Colorado. It seems that most of Colorado is not that windy compared to most other parts of the country. I was suprised to see that the windpatterns of the West Coast is very mild compared with the rest of the country, especially when you hear about the infamous Santa Anna Winds. 
 
 # Tableau (I) (7 points x 3 + 2 points x 10 + 3 points x 10 = 71 points)
 
