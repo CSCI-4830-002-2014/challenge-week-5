@@ -29,33 +29,33 @@ I was also unaware that the Midwest of the United Status is as unpopulated as it
 
 ### 1 (7 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/q6YqCtP.png)
 
 ### 2 (7 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/ugcRfap.png)
 
 ### 3 (7 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/PO8c5Ed.png)
 
 ## Challenges
 
 ### 1 (2 points)
 
-![image](image.png?raw=true)
+![image]http://i.imgur.com/DEtUxRb.png)
 
 ### 2 (2 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/b7AA6fQ.png)
 
 ### 3 (2 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/6sXOZAc.png)
 
 ### 4 (2 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/6LrSxSj.png)
 
 ### 5 (2 points)
 
