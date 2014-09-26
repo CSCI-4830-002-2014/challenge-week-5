@@ -128,12 +128,12 @@ I was also unaware that the Midwest of the United Status is as unpopulated as it
 
 ### 1 (7 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/dTQkwQ3.png)
 
 ### 2 (7 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/8ChFy5P.png)
 
 ### 3 (7 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/W360Bg3.png)
