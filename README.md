@@ -122,7 +122,7 @@ fill-in-your-answer
 
 ### 20 (3 points)
 
-![image](image.png?raw=true)
+![image](C5TChallenge20.png?raw=true)
 
 
 # Analysis 1
