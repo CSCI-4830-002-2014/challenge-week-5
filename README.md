@@ -5,12 +5,12 @@ Dawson Botsford
 100/100
 
 # How many hours have you spent on this?
-
-fill-in-your-answer
+7
 
 # What is the most difficult part about this week's challenge?
+The template should have been updated when Alex found that bug. I spent time trying to make my graph look the same with different filters when really the question should have read 200 and not 100.
 
-fill-in-your-answer
+I also had issues with the Vector data type in JS. I was unable to call the mean() function on my data because I had not yet cast it to a Vector. Lesson learned
 
 # Show and tell (8 points)
 
