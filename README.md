@@ -63,47 +63,47 @@ I was also unaware that the Midwest of the United Status is as unpopulated as it
 
 ### 6 (2 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/JEs7IR4.png)
 
 ### 7 (2 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/PUj7MVP.png)
 
 ### 8 (2 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/tUvA24N.png)
 
 ### 9 (2 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/KBSBst6.png)
 
 ### 10 (2 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/evyEd51.png)
 
 ### 11 (3 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/VGyNLIW.png)
 
 ### 12 (3 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/DgV2J7Q.png)
 
 ### 13 (3 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/fpugDBB.png)
 
 ### 14 (3 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/pgPaIhp.png)
 
 ### 15 (3 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/apU0PZ2.png)
 
 ### 16 (3 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/dwrYusS.png)
 
 ### 17 (3 points)
 
