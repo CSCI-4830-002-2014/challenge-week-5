@@ -1,6 +1,6 @@
 # Name
 
-write-your-name
+Michael Fyk
 
 # How many points have you earned?
 
