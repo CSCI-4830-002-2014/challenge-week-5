@@ -128,12 +128,12 @@ fill-in-your-answer
 
 ### 1 (7 points)
 
-![image](image.png?raw=true)
+![image](https://www.dropbox.com/s/qt03dyix7cl87fu/Screenshot%202014-09-27%2015.28.10.png?dl=1)
 
 ### 2 (7 points)
 
-![image](image.png?raw=true)
+![image](https://www.dropbox.com/s/u2vxdx5z80484un/Screenshot%202014-09-27%2015.35.28.png?dl=1)
 
 ### 3 (7 points)
 
-![image](image.png?raw=true)
+![image](https://www.dropbox.com/s/tufxk40cn0sla7c/Screenshot%202014-09-27%2015.52.03.png?dl=1)
