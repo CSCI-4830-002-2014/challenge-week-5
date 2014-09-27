@@ -1,16 +1,14 @@
 # Name
 
-write-your-name
+Austin Wood
 
 # How many points have you earned?
 
 0/100
 
-(Make your own calculation and replace the number 0 with the points you think you've earned.)
-
 # How many hours have you spent on this?
 
-fill-in-your-answer
+4
 
 # What is the most difficult part about this week's challenge?
 
@@ -32,97 +30,93 @@ fill-in-your-answer
 
 ### 1 (7 points)
 
-![image](image.png?raw=true)
+![checkpoint 1](images/tableau_cp1.png?raw=true)
 
 ### 2 (7 points)
 
-![image](image.png?raw=true)
+![checkpoint 2](images/tableau_cp2.png?raw=true)
 
 ### 3 (7 points)
 
-![image](image.png?raw=true)
+![checkpoint 3](images/tableau_cp3.png?raw=true)
 
 ## Challenges
 
 ### 1 (2 points)
 
-![image](image.png?raw=true)
+![challenge 1](images/tableau_ch01.png?raw=true)
 
 ### 2 (2 points)
 
-![image](image.png?raw=true)
+![challenge 2](images/tableau_ch02.png?raw=true)
 
 ### 3 (2 points)
 
-![image](image.png?raw=true)
+![challenge 3](images/tableau_ch03.png?raw=true)
 
 ### 4 (2 points)
 
-![image](image.png?raw=true)
+![challenge 4](images/tableau_ch04.png?raw=true)
 
 ### 5 (2 points)
 
-![image](image.png?raw=true)
+![challenge 5](images/tableau_ch05.png?raw=true)
 
 ### 6 (2 points)
 
-![image](image.png?raw=true)
+![challenge 6](images/tableau_ch06.png?raw=true)
 
 ### 7 (2 points)
 
-![image](image.png?raw=true)
+![challenge 7](images/tableau_ch07.png?raw=true)
 
 ### 8 (2 points)
 
-![image](image.png?raw=true)
+![challenge 8](images/tableau_ch08.png?raw=true)
 
 ### 9 (2 points)
 
-![image](image.png?raw=true)
+![challenge 9](images/tableau_ch09.png?raw=true)
 
 ### 10 (2 points)
 
-![image](image.png?raw=true)
+![challenge 10](images/tableau_ch10.png?raw=true)
 
 ### 11 (3 points)
 
-![image](image.png?raw=true)
+![challenge 11](images/tableau_ch11.png?raw=true)
 
 ### 12 (3 points)
 
-![image](image.png?raw=true)
+![challenge 12](images/tableau_ch12.png?raw=true)
 
 ### 13 (3 points)
 
-![image](image.png?raw=true)
+![challenge 13](images/tableau_ch13.png?raw=true)
 
 ### 14 (3 points)
 
-![image](image.png?raw=true)
+![challenge 14](images/tableau_ch14.png?raw=true)
 
 ### 15 (3 points)
 
-![image](image.png?raw=true)
+![challenge 15](images/tableau_ch15.png?raw=true)
 
 ### 16 (3 points)
 
-![image](image.png?raw=true)
+![challenge 16](images/tableau_ch16.png?raw=true)
 
 ### 17 (3 points)
 
-![image](image.png?raw=true)
+![challenge 17](images/tableau_ch17.png?raw=true)
 
 ### 18 (3 points)
 
-![image](image.png?raw=true)
+![challenge 18](images/tableau_ch18.png?raw=true)
 
 ### 19 (3 points)
 
-![image](image.png?raw=true)
-
-### 20 (3 points)
-
-![image](image.png?raw=true)
+![challenge 19](images/tableau_ch19.png?raw=true)
 
 
 # Analysis 1
