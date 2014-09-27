@@ -1,6 +1,6 @@
 # Name
 
-write-your-name
+Logan Bates
 
 # How many points have you earned?
 
@@ -32,11 +32,11 @@ fill-in-your-answer
 
 ### 1 (7 points)
 
-![image](image.png?raw=true)
+![image](checkpoint1.png?raw=true)
 
 ### 2 (7 points)
 
-![image](image.png?raw=true)
+![image](checkpoint2.png?raw=true)
 
 ### 3 (7 points)
 
