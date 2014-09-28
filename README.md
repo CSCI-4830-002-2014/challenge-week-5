@@ -46,79 +46,79 @@ fill-in-your-answer
 
 ### 1 (2 points)
 
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/big%20data%20screenshots/Week%205/a.chl1.png)
 
 ### 2 (2 points)
 
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/big%20data%20screenshots/Week%205/a.chl2.png)
 
 ### 3 (2 points)
 
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/big%20data%20screenshots/Week%205/a.chl3.png)
 
 ### 4 (2 points)
 
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/big%20data%20screenshots/Week%205/a.chl4.png)
 
 ### 5 (2 points)
 
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/big%20data%20screenshots/Week%205/a.chl5.png)
 
 ### 6 (2 points)
 
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/big%20data%20screenshots/Week%205/a.chl6.png)
 
 ### 7 (2 points)
 
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/big%20data%20screenshots/Week%205/a.chl7.png)
 
 ### 8 (2 points)
 
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/big%20data%20screenshots/Week%205/a.chl8.png)
 
 ### 9 (2 points)
 
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/big%20data%20screenshots/Week%205/a.chl9.png)
 
 ### 10 (2 points)
 
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/big%20data%20screenshots/Week%205/a.chl10.png)
 
 ### 11 (3 points)
 
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/big%20data%20screenshots/Week%205/a.chl11.png)
 
 ### 12 (3 points)
 
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/big%20data%20screenshots/Week%205/a.chl12.png)
 
 ### 13 (3 points)
 
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/big%20data%20screenshots/Week%205/a.chl13.png)
 
 ### 14 (3 points)
 
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/big%20data%20screenshots/Week%205/a.chl14.png)
 
 ### 15 (3 points)
 
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/big%20data%20screenshots/Week%205/a.chl15.png)
 
 ### 16 (3 points)
 
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/big%20data%20screenshots/Week%205/a.chl16.png)
 
 ### 17 (3 points)
 
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/big%20data%20screenshots/Week%205/a.chl17.png)
 
 ### 18 (3 points)
 
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/big%20data%20screenshots/Week%205/a.chl18.png)
 
 ### 19 (6 points)
 
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/big%20data%20screenshots/Week%205/a.chl19.png)
 
 
 
