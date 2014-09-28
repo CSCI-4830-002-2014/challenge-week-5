@@ -132,7 +132,7 @@ It is cool to see how naming trends travel across the country.
 
 ### 2 (7 points)
 
-![image](image.png?raw=true)
+![image](analysiscp2.png?raw=true)
 
 ### 3 (7 points)
 
