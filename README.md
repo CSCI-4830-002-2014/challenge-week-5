@@ -40,85 +40,85 @@ fill-in-your-answer
 
 ### 3 (7 points)
 
-![image](image.png?raw=true)
+![image](checkpoint3.png?raw=true)
 
 ## Challenges
 
 ### 1 (2 points)
 
-![image](image.png?raw=true)
+![image](challenge1.png?raw=true)
 
 ### 2 (2 points)
 
-![image](image.png?raw=true)
+![image](challenge2.png?raw=true)
 
 ### 3 (2 points)
 
-![image](image.png?raw=true)
+![image](challenge3.png?raw=true)
 
 ### 4 (2 points)
 
-![image](image.png?raw=true)
+![image](challenge4.png?raw=true)
 
 ### 5 (2 points)
 
-![image](image.png?raw=true)
+![image](challenge5.png?raw=true)
 
 ### 6 (2 points)
 
-![image](image.png?raw=true)
+![image](challenge6.png?raw=true)
 
 ### 7 (2 points)
 
-![image](image.png?raw=true)
+![image](challenge7.png?raw=true)
 
 ### 8 (2 points)
 
-![image](image.png?raw=true)
+![image](challenge8.png?raw=true)
 
 ### 9 (2 points)
 
-![image](image.png?raw=true)
+![image](challenge9.png?raw=true)
 
 ### 10 (2 points)
 
-![image](image.png?raw=true)
+![image](challenge10.png?raw=true)
 
 ### 11 (3 points)
 
-![image](image.png?raw=true)
+![image](challenge11.png?raw=true)
 
 ### 12 (3 points)
 
-![image](image.png?raw=true)
+![image](challenge12.png?raw=true)
 
 ### 13 (3 points)
 
-![image](image.png?raw=true)
+![image](challenge13.png?raw=true)
 
 ### 14 (3 points)
 
-![image](image.png?raw=true)
+![image](challenge14.png?raw=true)
 
 ### 15 (3 points)
 
-![image](image.png?raw=true)
+![image](challenge15.png?raw=true)
 
 ### 16 (3 points)
 
-![image](image.png?raw=true)
+![image](challenge16.png?raw=true)
 
 ### 17 (3 points)
 
-![image](image.png?raw=true)
+![image](challenge17.png?raw=true)
 
 ### 18 (3 points)
 
-![image](image.png?raw=true)
+![image](challenge18.png?raw=true)
 
 ### 19 (6 points)
 
-![image](image.png?raw=true)
+![image](challenge19.png?raw=true)
 
 
 
