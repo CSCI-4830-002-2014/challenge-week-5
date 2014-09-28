@@ -4,25 +4,25 @@ Austin Wood
 
 # How many points have you earned?
 
-0/100
+100/100
 
 # How many hours have you spent on this?
 
-4
+8
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+Using Tableau was a big pain. It was difficult to know where certain commands, functions, and features were when none of it was specified in the tutorials. I spent more time than was pleasurable on some of the challenges.
 
 # Show and tell (8 points)
 
 ## Link (2 points)
 
-[title-of-the-article](http://link-to-an-interesting-visualization-involving-a-map)
+[Data Visualization: Modern Approaches](http://www.smashingmagazine.com/2007/08/02/data-visualization-modern-approaches/)
 
 ## What new knowledge or insight have you gained from this visualization? (6 points)
 
-fill-in-your-answer
+Even though I already knew this, it still baffles me how much information large data companies collect on users. People think things like Twitter and Facebook are "free", but in reality, we just aren't paying with hard cash, we're paying with our personal data. It's insane to see the types of visualizations that are being created these days. I really like the one in this article that shows the heatmap of where people look when they read.
 
 # Tableau (I) (7 points x 3 + 2 points x 10 + 3 points x 10 = 71 points)
 
@@ -125,12 +125,13 @@ fill-in-your-answer
 
 ### 1 (7 points)
 
-![image](image.png?raw=true)
+![challenge 1](images/analysis_cp1.png?raw=true)
 
 ### 2 (7 points)
 
-![image](image.png?raw=true)
+![challenge 2](images/analysis_cp2.png?raw=true)
 
 ### 3 (7 points)
 
-![image](image.png?raw=true)
+![challenge 3](images/analysis_cp3.png?raw=true)
+This was a pain to try and fix. At first I thought it was my node version, so I tried switching that and even removing node and using nodenv (version manager) to test out different versions of node, none of which worked. I couldn't even edit and re-evaluate a textbox without it crashing on me and, for some reason, creating a new server on port 5001, as seen in the message above. I even tried restarting my computer as well, but that didn't work either. Not sure what the problem is. Any help would be greatly appreciated.
