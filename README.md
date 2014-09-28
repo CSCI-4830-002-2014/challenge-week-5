@@ -128,12 +128,12 @@ fill-in-your-answer
 
 ### 1 (7 points)
 
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/big%20data%20screenshots/Week%205/b.chl1.png)
 
 ### 2 (7 points)
 
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/big%20data%20screenshots/Week%205/b.chl2.png)
 
 ### 3 (7 points)
 
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/big%20data%20screenshots/Week%205/b.chl3.png)
