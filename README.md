@@ -4,17 +4,17 @@ Alexia Newgord
 
 # How many points have you earned?
 
-0/100
+99/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+9
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+I'm used to searching through forums and blogs to help figure out issues that may come up. However, these tools are more obscure than what I typically use and have a smaller presence online.  For that reason, I sometimes get stuck on problems for longer than I'd typically expect.
 
 # Show and tell (8 points)
 
@@ -135,5 +135,7 @@ Scottland had an extremely high voter turnout for the recent vote for independen
 ![image](a2.png?raw=true)
 
 ### 3 (7 points)
+
+Note:  I believe the changes I made to this code are correct to complete the checkpoint.  However, it appears that my setup is unable to render.  I spent a lot of time trying to fix this, but was unable to.I read through the very limited documentation online, issues from other classmates, and the scrapbook examples. I had some unresolved installation errors when initially using npm to install dependencies, so it may relate to that.
 
 ![image](a3.png?raw=true)
