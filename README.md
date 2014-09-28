@@ -1,30 +1,33 @@
 # Name
 
-write-your-name
+Ian
 
 # How many points have you earned?
 
-0/100
+100/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+3
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+Tableau and not knowing all of the commands.
 
 # Show and tell (8 points)
 
 ## Link (2 points)
 
-[title-of-the-article](http://link-to-an-interesting-visualization-involving-a-map)
+[Visualizing the Inequities of Climate Change](http://blogs.kqed.org/lowdown/2014/09/26/the-inequalities-of-climate-change-visualized-in-one-fascinating-map-and-6-other-great-interactive-resources/)
 
 ## What new knowledge or insight have you gained from this visualization? (6 points)
 
-fill-in-your-answer
+There is a video on this site that shows a timelapse of how the climate
+has changed since the 1970s. I learned that before the 1970s, there was a period
+of coolness in the climate. After the 1970s you can see how the industrial giants
+contribute the most to climate warming. 
 
 # Tableau (I) (7 points x 3 + 2 points x 10 + 3 points x 10 = 71 points)
 
@@ -136,4 +139,4 @@ fill-in-your-answer
 
 ### 3 (7 points)
 
-![image](https://www.dropbox.com/s/tufxk40cn0sla7c/Screenshot%202014-09-27%2015.52.03.png?dl=1)
+![image](https://www.dropbox.com/s/j1eqj025os55ee6/Screenshot%202014-09-27%2017.52.04.png?dl=1)
