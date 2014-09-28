@@ -10,21 +10,20 @@ Peyman Mortazavi
 
 # How many hours have you spent on this?
 
-I started at 8:17 Sat Sept 27th, 2014
+3:30 hours.
 
-# What is the most difficult part about this week's challenge?
+2nd challenge of Analysis because identical code on my machine would fail.
 
-fill-in-your-answer
 
 # Show and tell (8 points)
 
 ## Link (2 points)
 
-[title-of-the-article](http://link-to-an-interesting-visualization-involving-a-map)
+[Thirty Million Tweets Visualized](http://www.zerogeography.net/2012_11_01_archive.html)
 
 ## What new knowledge or insight have you gained from this visualization? (6 points)
 
-fill-in-your-answer
+Well, beside the point that it shows how active people are in social media in different places, it shows how accurate our data from social medias like twitter could be. Earlier in the article, it talks about people's opinion in Presidential election of 2012 and then this visualization shows who posts these from where.
 
 # Tableau (I) (7 points x 3 + 2 points x 10 + 3 points x 10 = 71 points)
 
@@ -101,6 +100,8 @@ fill-in-your-answer
 ![image](https://dl.dropboxusercontent.com/u/44502811/big%20data%20screenshots/Week%205/a.chl14.png)
 
 ### 15 (3 points)
+
+It kept saying that there's a graphic issue and it cannot be rendered, as you can see the text is not rendered properly and I did my best but I couldn't get it to render texts properly.
 
 ![image](https://dl.dropboxusercontent.com/u/44502811/big%20data%20screenshots/Week%205/a.chl15.png)
 
