@@ -32,15 +32,15 @@ fill-in-your-answer
 
 ### 1 (7 points)
 
-![image](https://dl.dropboxusercontent.com/content_link/nJFFGPiaWyAk9KkK0UV4HrlqVcyEQCQhJIN0hWCkyHhgoy81SY1QlR1kWzRacY4i?dl=1)
+![image](https://dl.dropboxusercontent.com/u/44502811/big%20data%20screenshots/Week%205/a.chk1.png)
 
 ### 2 (7 points)
 
-![image](https://dl.dropboxusercontent.com/content_link/V63pIVOOifUbx1U9sAf6t2ZHnHzxyXdApaKUwBMJqZj5BQMzlIhv62dWVCWHE0BL?dl=1)
+![image](https://dl.dropboxusercontent.com/u/44502811/big%20data%20screenshots/Week%205/a.chk2.png)
 
 ### 3 (7 points)
 
-![image](https://dl.dropboxusercontent.com/content_link/B9scEIoQO2aJAFPPXKXMeQTQncDIYhFNwXChxs2AQoEeuzFdr8YMNdlNABn4AGeL?dl=1)
+![image](https://dl.dropboxusercontent.com/u/44502811/big%20data%20screenshots/Week%205/a.chk3.png)
 
 ## Challenges
 
