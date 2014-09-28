@@ -1,0 +1,208 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'node', '/usr/local/bin/npm', 'install', '-g', 'gauss' ]
+2 info using npm@2.0.0
+3 info using node@v0.10.29
+4 verbose cache add [ 'gauss', null ]
+5 verbose cache add spec="gauss" args=["gauss",null]
+6 verbose parsed spec { raw: 'gauss',
+6 verbose parsed spec   scope: null,
+6 verbose parsed spec   name: 'gauss',
+6 verbose parsed spec   rawSpec: '',
+6 verbose parsed spec   spec: '*',
+6 verbose parsed spec   type: 'range' }
+7 verbose parsed spec { raw: 'gauss',
+7 verbose parsed spec   scope: null,
+7 verbose parsed spec   name: 'gauss',
+7 verbose parsed spec   rawSpec: '',
+7 verbose parsed spec   spec: '*',
+7 verbose parsed spec   type: 'range' }
+8 verbose addNamed [ 'gauss', '*' ]
+9 verbose addNamed [ null, '*' ]
+10 silly lockFile a1e744db-gauss gauss@*
+11 verbose lock gauss@* /Users/jakecharland/.npm/a1e744db-gauss.lock
+12 silly addNameRange { name: 'gauss', range: '*', hasData: false }
+13 verbose mapToRegistry name gauss
+14 verbose mapToRegistry uri https://registry.npmjs.org/gauss
+15 verbose request on initialization, where is /gauss
+16 verbose request after pass 1, where is /gauss
+17 verbose request url raw /gauss
+18 verbose request resolving registry [ 'https://registry.npmjs.org/', './gauss' ]
+19 verbose request after pass 2, where is https://registry.npmjs.org/gauss
+20 verbose request no auth needed
+21 info attempt registry request try #1 at 18:08:43
+22 verbose request id 48038c87d4ea3280
+23 verbose etag "2XLVBDEWIBBAW4Q4AVEU7Q8D7"
+24 http request GET https://registry.npmjs.org/gauss
+25 http 304 https://registry.npmjs.org/gauss
+26 silly registry.get cb [ 304,
+26 silly registry.get   { date: 'Sat, 27 Sep 2014 00:08:55 GMT',
+26 silly registry.get     server: 'Apache',
+26 silly registry.get     via: '1.1 varnish',
+26 silly registry.get     'last-modified': 'Sat, 27 Sep 2014 00:08:55 GMT',
+26 silly registry.get     'cache-control': 'max-age=60',
+26 silly registry.get     etag: '"2XLVBDEWIBBAW4Q4AVEU7Q8D7"',
+26 silly registry.get     'x-served-by': 'cache-dfw1826-DFW',
+26 silly registry.get     'x-cache': 'HIT',
+26 silly registry.get     'x-cache-hits': '1',
+26 silly registry.get     'x-timer': 'S1411776535.109053,VS0,VE0',
+26 silly registry.get     vary: 'Accept',
+26 silly registry.get     'content-length': '0',
+26 silly registry.get     'keep-alive': 'timeout=10, max=50',
+26 silly registry.get     connection: 'Keep-Alive' } ]
+27 verbose etag https://registry.npmjs.org/gauss from cache
+28 silly addNameRange number 2 { name: 'gauss', range: '*', hasData: true }
+29 silly addNameRange versions [ 'gauss',
+29 silly addNameRange   [ '0.1.0',
+29 silly addNameRange     '0.2.0',
+29 silly addNameRange     '0.2.1',
+29 silly addNameRange     '0.2.2',
+29 silly addNameRange     '0.2.3',
+29 silly addNameRange     '0.2.4',
+29 silly addNameRange     '0.2.5',
+29 silly addNameRange     '0.2.6',
+29 silly addNameRange     '0.2.7',
+29 silly addNameRange     '0.2.8',
+29 silly addNameRange     '0.2.9',
+29 silly addNameRange     '0.2.11',
+29 silly addNameRange     '0.2.12' ] ]
+30 verbose addNamed [ 'gauss', '0.2.12' ]
+31 verbose addNamed [ '0.2.12', '0.2.12' ]
+32 silly lockFile 10ebf52a-gauss-0-2-12 gauss@0.2.12
+33 verbose lock gauss@0.2.12 /Users/jakecharland/.npm/10ebf52a-gauss-0-2-12.lock
+34 silly lockFile 10ebf52a-gauss-0-2-12 gauss@0.2.12
+35 silly lockFile 10ebf52a-gauss-0-2-12 gauss@0.2.12
+36 silly lockFile a1e744db-gauss gauss@*
+37 silly lockFile a1e744db-gauss gauss@*
+38 silly resolved [ { author: { name: 'Fredrick Galoso', email: 'fredrickgaloso@gmail.com' },
+38 silly resolved     name: 'gauss',
+38 silly resolved     description: 'JavaScript statistics, analytics, and set library',
+38 silly resolved     version: '0.2.12',
+38 silly resolved     keywords: [ 'statistics', 'analytics', 'timeseries', 'math', 'gauss', 'set' ],
+38 silly resolved     repository: { type: 'git', url: 'git://github.com/wayoutmind/gauss.git' },
+38 silly resolved     main: 'index',
+38 silly resolved     engines: { node: '*' },
+38 silly resolved     dependencies: {},
+38 silly resolved     devDependencies: { vows: 'latest', 'uglify-js': 'latest' },
+38 silly resolved     bin: { gauss: './bin/gauss' },
+38 silly resolved     scripts:
+38 silly resolved      { start: './bin/gauss',
+38 silly resolved        test: 'vows test/*',
+38 silly resolved        prepublish: 'node build.js' },
+38 silly resolved     bugs: { url: 'https://github.com/wayoutmind/gauss/issues' },
+38 silly resolved     _id: 'gauss@0.2.12',
+38 silly resolved     dist:
+38 silly resolved      { shasum: '51255ad216c76938b3c5493269763f0fd57753f7',
+38 silly resolved        tarball: 'http://registry.npmjs.org/gauss/-/gauss-0.2.12.tgz' },
+38 silly resolved     _from: 'gauss@*',
+38 silly resolved     _npmVersion: '1.3.11',
+38 silly resolved     _npmUser: { name: 'wayoutmind', email: 'fredrickgaloso@gmail.com' },
+38 silly resolved     maintainers: [ [Object] ],
+38 silly resolved     directories: {},
+38 silly resolved     _shasum: '51255ad216c76938b3c5493269763f0fd57753f7',
+38 silly resolved     _resolved: 'https://registry.npmjs.org/gauss/-/gauss-0.2.12.tgz',
+38 silly resolved     readme: 'ERROR: No README data found!',
+38 silly resolved     homepage: 'https://github.com/wayoutmind/gauss' } ]
+39 info install gauss@0.2.12 into /usr/local/lib
+40 info installOne gauss@0.2.12
+41 verbose lib/node_modules/gauss unbuild
+42 verbose gentlyRm vacuuming /usr/local/lib/node_modules/gauss
+43 verbose tar unpack /Users/jakecharland/.npm/gauss/0.2.12/package.tgz
+44 silly lockFile 745f70b0-usr-local-lib-node-modules-gauss tar:///usr/local/lib/node_modules/gauss
+45 verbose lock tar:///usr/local/lib/node_modules/gauss /Users/jakecharland/.npm/745f70b0-usr-local-lib-node-modules-gauss.lock
+46 silly lockFile 7eaee50e-and-npm-gauss-0-2-12-package-tgz tar:///Users/jakecharland/.npm/gauss/0.2.12/package.tgz
+47 verbose lock tar:///Users/jakecharland/.npm/gauss/0.2.12/package.tgz /Users/jakecharland/.npm/7eaee50e-and-npm-gauss-0-2-12-package-tgz.lock
+48 verbose gentlyRm vacuuming /usr/local/lib/node_modules/gauss
+49 silly gunzTarPerm modes [ '755', '644' ]
+50 silly gunzTarPerm extractEntry package.json
+51 silly gunzTarPerm extractEntry .npmignore
+52 silly gunzTarPerm extractEntry README.md
+53 silly gunzTarPerm extractEntry LICENSE
+54 silly gunzTarPerm extractEntry build.js
+55 silly gunzTarPerm extractEntry gauss.min.js
+56 silly gunzTarPerm extractEntry index.js
+57 silly gunzTarPerm extractEntry test/collection.test.js
+58 silly gunzTarPerm extractEntry test/timeseries.test.js
+59 silly gunzTarPerm extractEntry test/vector.test.js
+60 silly gunzTarPerm extractEntry CONTRIBUTORS.md
+61 silly gunzTarPerm extractEntry bin/gauss
+62 silly gunzTarPerm extractEntry lib/amd.js
+63 silly gunzTarPerm extractEntry lib/collection.js
+64 silly gunzTarPerm extractEntry lib/gauss.js
+65 silly gunzTarPerm extractEntry lib/timeseries.js
+66 silly gunzTarPerm extractEntry lib/vector.js
+67 silly gunzTarPerm extractEntry .travis.yml
+68 silly gunzTarPerm extractEntry bower.json
+69 silly lockFile 745f70b0-usr-local-lib-node-modules-gauss tar:///usr/local/lib/node_modules/gauss
+70 silly lockFile 745f70b0-usr-local-lib-node-modules-gauss tar:///usr/local/lib/node_modules/gauss
+71 silly lockFile 7eaee50e-and-npm-gauss-0-2-12-package-tgz tar:///Users/jakecharland/.npm/gauss/0.2.12/package.tgz
+72 silly lockFile 7eaee50e-and-npm-gauss-0-2-12-package-tgz tar:///Users/jakecharland/.npm/gauss/0.2.12/package.tgz
+73 info preinstall gauss@0.2.12
+74 verbose readDependencies using package.json deps
+75 verbose readDependencies using package.json deps
+76 silly resolved []
+77 verbose about to build /usr/local/lib/node_modules/gauss
+78 info build /usr/local/lib/node_modules/gauss
+79 verbose linkStuff [ true,
+79 verbose linkStuff   '/usr/local/lib/node_modules',
+79 verbose linkStuff   true,
+79 verbose linkStuff   '/usr/local/lib/node_modules' ]
+80 info linkStuff gauss@0.2.12
+81 verbose linkBins gauss@0.2.12
+82 verbose link bins [ { gauss: './bin/gauss' }, '/usr/local/bin', true ]
+83 verbose linkMans gauss@0.2.12
+84 verbose rebuildBundles gauss@0.2.12
+85 verbose gentlyRm verifying that /usr/local/lib/node_modules/gauss is managed by npm
+86 silly cacheAndTest /usr/local/lib/node_modules/gauss is inside /usr/local/lib/node_modules
+87 silly gentlyRm /usr/local/lib/node_modules/gauss is managed by npm
+88 silly gentlyRm /usr/local/bin/gauss is not under /usr/local/lib/node_modules/gauss
+89 silly gentlyRm checking to see if /usr/local/bin/gauss is a link
+90 info install gauss@0.2.12
+91 info postinstall gauss@0.2.12
+92 warn unmet dependency /usr/local/lib/node_modules/generator-express-angular/node_modules/yeoman-generator/node_modules/inquirer requires lodash@'~1.2.1' but will load
+92 warn unmet dependency /usr/local/lib/node_modules/generator-express-angular/node_modules/yeoman-generator/node_modules/lodash,
+92 warn unmet dependency which is version 1.3.1
+93 warn unmet dependency /usr/local/lib/node_modules/generator-express-angular/node_modules/yeoman-generator/node_modules/findup-sync requires lodash@'~2.4.1' but will load
+93 warn unmet dependency /usr/local/lib/node_modules/generator-express-angular/node_modules/yeoman-generator/node_modules/lodash,
+93 warn unmet dependency which is version 1.3.1
+94 warn unmet dependency /usr/local/lib/node_modules/generator-express-angular/node_modules/bower/node_modules/decompress-zip/node_modules/touch requires nopt@'~1.0.10' but will load
+94 warn unmet dependency /usr/local/lib/node_modules/generator-express-angular/node_modules/bower/node_modules/decompress-zip/node_modules/nopt,
+94 warn unmet dependency which is version 2.2.1
+95 warn unmet dependency /usr/local/lib/node_modules/generator-express-angular/node_modules/bower/node_modules/inquirer/node_modules/readline2 requires chalk@'~0.4.0' but will load
+95 warn unmet dependency /usr/local/lib/node_modules/generator-express-angular/node_modules/bower/node_modules/chalk,
+95 warn unmet dependency which is version 0.5.1
+96 warn unmet dependency /usr/local/lib/node_modules/generator-express-angular/node_modules/bower/node_modules/insight/node_modules/configstore requires object-assign@'~0.3.1' but will load
+96 warn unmet dependency /usr/local/lib/node_modules/generator-express-angular/node_modules/bower/node_modules/insight/node_modules/object-assign,
+96 warn unmet dependency which is version 1.0.0
+97 warn unmet dependency /usr/local/lib/node_modules/generator-express-angular/node_modules/bower/node_modules/update-notifier/node_modules/semver-diff requires semver@'^3.0.1' but will load
+97 warn unmet dependency /usr/local/lib/node_modules/generator-express-angular/node_modules/bower/node_modules/semver,
+97 warn unmet dependency which is version 2.3.2
+98 warn unmet dependency /usr/local/lib/node_modules/generator-express-angular/node_modules/yo/node_modules/yeoman-generator/node_modules/file-utils requires glob@'~3.2.6' but will load
+98 warn unmet dependency /usr/local/lib/node_modules/generator-express-angular/node_modules/yo/node_modules/yeoman-generator/node_modules/glob,
+98 warn unmet dependency which is version 4.0.5
+99 warn unmet dependency /usr/local/lib/node_modules/generator-express-angular/node_modules/yo/node_modules/yeoman-generator/node_modules/findup-sync requires glob@'~3.2.9' but will load
+99 warn unmet dependency /usr/local/lib/node_modules/generator-express-angular/node_modules/yo/node_modules/yeoman-generator/node_modules/glob,
+99 warn unmet dependency which is version 4.0.5
+100 warn unmet dependency /usr/local/lib/node_modules/yo/node_modules/yeoman-generator/node_modules/inquirer/node_modules/readline2 requires chalk@'~0.4.0' but will load
+100 warn unmet dependency /usr/local/lib/node_modules/yo/node_modules/chalk,
+100 warn unmet dependency which is version 0.5.1
+101 verbose stack Error: The package generator-karma does not satisfy its siblings' peerDependencies requirements!
+101 verbose stack     at /usr/local/lib/node_modules/npm/lib/install.js:98:32
+101 verbose stack     at /usr/local/lib/node_modules/npm/lib/install.js:202:5
+101 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/read-installed/read-installed.js:138:5
+101 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/read-installed/read-installed.js:251:14
+101 verbose stack     at cb (/usr/local/lib/node_modules/npm/node_modules/slide/lib/async-map.js:47:24)
+101 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/read-installed/read-installed.js:251:14
+101 verbose stack     at cb (/usr/local/lib/node_modules/npm/node_modules/slide/lib/async-map.js:47:24)
+101 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/read-installed/read-installed.js:251:14
+101 verbose stack     at cb (/usr/local/lib/node_modules/npm/node_modules/slide/lib/async-map.js:47:24)
+101 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/read-installed/read-installed.js:251:14
+102 verbose cwd /Users/jakecharland/Documents/BigData/challenge-week-5
+103 error Darwin 13.3.0
+104 error argv "node" "/usr/local/bin/npm" "install" "-g" "gauss"
+105 error node v0.10.29
+106 error npm  v2.0.0
+107 error code EPEERINVALID
+108 error peerinvalid The package generator-karma does not satisfy its siblings' peerDependencies requirements!
+108 error peerinvalid Peer generator-angular@0.9.8 wants generator-karma@>=0.8.2
+108 error peerinvalid Peer generator-express-angular@0.2.8 wants generator-karma@~0.5.0
+109 verbose exit [ 1, true ]
