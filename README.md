@@ -1,16 +1,16 @@
 # Name
 
-write-your-name
+Peyman Mortazavi
 
 # How many points have you earned?
 
-0/100
+100/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+I started at 8:17 Sat Sept 27th, 2014
 
 # What is the most difficult part about this week's challenge?
 
@@ -32,15 +32,15 @@ fill-in-your-answer
 
 ### 1 (7 points)
 
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/content_link/nJFFGPiaWyAk9KkK0UV4HrlqVcyEQCQhJIN0hWCkyHhgoy81SY1QlR1kWzRacY4i?dl=1)
 
 ### 2 (7 points)
 
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/content_link/V63pIVOOifUbx1U9sAf6t2ZHnHzxyXdApaKUwBMJqZj5BQMzlIhv62dWVCWHE0BL?dl=1)
 
 ### 3 (7 points)
 
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/content_link/B9scEIoQO2aJAFPPXKXMeQTQncDIYhFNwXChxs2AQoEeuzFdr8YMNdlNABn4AGeL?dl=1)
 
 ## Challenges
 
