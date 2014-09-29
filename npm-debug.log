@@ -1,0 +1,23 @@
+info it worked if it ends with ok
+verbose cli [ 'node', '/usr/bin/npm', 'start' ]
+info using npm@1.1.4
+info using node@v0.6.12
+verbose config file /home/fyooch/.npmrc
+verbose config file /usr/etc/npmrc
+verbose config file /usr/share/npm/npmrc
+ERR! Error: ENOENT, no such file or directory '/home/fyooch/BIG_DATA/challenge-week-5/package.json'
+ERR! You may report this log at:
+ERR!     <http://bugs.debian.org/npm>
+ERR! or use
+ERR!     reportbug --attach /home/fyooch/BIG_DATA/challenge-week-5/npm-debug.log npm
+ERR! 
+ERR! System Linux 3.8.0-44-generic
+ERR! command "node" "/usr/bin/npm" "start"
+ERR! cwd /home/fyooch/BIG_DATA/challenge-week-5
+ERR! node -v v0.6.12
+ERR! npm -v 1.1.4
+ERR! path /home/fyooch/BIG_DATA/challenge-week-5/package.json
+ERR! code ENOENT
+ERR! message ENOENT, no such file or directory '/home/fyooch/BIG_DATA/challenge-week-5/package.json'
+ERR! errno {}
+verbose exit [ 1, true ]
