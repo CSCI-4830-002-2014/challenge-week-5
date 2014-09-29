@@ -129,7 +129,7 @@ fill-in-your-answer
 
 ### 1 (7 points)
 
-![image](Wee5ChallengeScreenShots/C.bmp)
+![image](Wee5ChallengeScreenShots/analysisC1.bmp)
 
 ### 2 (7 points)
 
