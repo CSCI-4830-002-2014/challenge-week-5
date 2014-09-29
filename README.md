@@ -20,7 +20,7 @@ Gauss
 
 ## Link (2 points)
 
-[title-of-the-article](http://www.nytimes.com/interactive/2014/08/15/us/surplus-military-equipment-map.html?module=Search&mabReward=relbias%3Ar%2C%7B%221%22%3A%22RI%3A6%22%7D)
+[Mapping the Spread of the Military’s Surplus Gear](http://www.nytimes.com/interactive/2014/08/15/us/surplus-military-equipment-map.html?module=Search&mabReward=relbias%3Ar%2C%7B%221%22%3A%22RI%3A6%22%7D)
 
 ## What new knowledge or insight have you gained from this visualization? (6 points)
 
