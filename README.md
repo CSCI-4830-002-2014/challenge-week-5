@@ -1,16 +1,17 @@
 # Name
 
-write-your-name
+Ryan Roden
 
 # How many points have you earned?
 
-0/100
+70/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+4 hours
+
 
 # What is the most difficult part about this week's challenge?
 
@@ -32,7 +33,7 @@ fill-in-your-answer
 
 ### 1 (7 points)
 
-![image](image.png?raw=true)
+![image]()
 
 ### 2 (7 points)
 
@@ -46,43 +47,43 @@ fill-in-your-answer
 
 ### 1 (2 points)
 
-![image](image.png?raw=true)
+![image](Week5ChallengeScreenShots/Week5C1.png)
 
 ### 2 (2 points)
 
-![image](image.png?raw=true)
+![image](Week5ChallengeScreenShots/C2.bmp)
 
 ### 3 (2 points)
 
-![image](image.png?raw=true)
+![image](Week5ChallengeScreenShots/C3.bmp)
 
 ### 4 (2 points)
 
-![image](image.png?raw=true)
+![image](Week5ChallengeScreenShots/C4.bmp)
 
 ### 5 (2 points)
 
-![image](image.png?raw=true)
+![image](Week5ChallengeScreenShots/C5.bmp)
 
 ### 6 (2 points)
 
-![image](image.png?raw=true)
+![image](Week5ChallengeScreenShots/C6.bmp)
 
 ### 7 (2 points)
 
-![image](image.png?raw=true)
+![image](Week5ChallengeScreenShots/C7.bmp)
 
 ### 8 (2 points)
 
-![image](image.png?raw=true)
+![image](Week5ChallengeScreenShots/C8.bmp)
 
 ### 9 (2 points)
 
-![image](image.png?raw=true)
+![image](Week5ChallengeScreenShots/C9.bmp)
 
 ### 10 (2 points)
 
-![image](image.png?raw=true)
+![image](Week5ChallengeScreenShots/C10.bmp)
 
 ### 11 (3 points)
 
