@@ -1,6 +1,6 @@
 # Name
 
-write-your-name
+Sam Korn
 
 # How many points have you earned?
 
@@ -32,93 +32,93 @@ fill-in-your-answer
 
 ### 1 (7 points)
 
-![image](image.png?raw=true)
+![image](TableuCheckpoint1.png)
 
 ### 2 (7 points)
 
-![image](image.png?raw=true)
+![image](TableuCheckpoint2.png)
 
 ### 3 (7 points)
 
-![image](image.png?raw=true)
+![image](TableuCheckpoint3.png)
 
 ## Challenges
 
 ### 1 (2 points)
 
-![image](image.png?raw=true)
+![image](TableuChallenge1.png)
 
 ### 2 (2 points)
 
-![image](image.png?raw=true)
+![image](TableuChallenge2.png)
 
 ### 3 (2 points)
 
-![image](image.png?raw=true)
+![image](TableuChallenge3.png)
 
 ### 4 (2 points)
 
-![image](image.png?raw=true)
+![image](TableuChallenge4.png)
 
 ### 5 (2 points)
 
-![image](image.png?raw=true)
+![image](TableuChallenge5.png)
 
 ### 6 (2 points)
 
-![image](image.png?raw=true)
+![image](TableuChallenge6.png)
 
 ### 7 (2 points)
 
-![image](image.png?raw=true)
+![image](TableuChallenge7.png)
 
 ### 8 (2 points)
 
-![image](image.png?raw=true)
+![image](TableuChallenge8.png)
 
 ### 9 (2 points)
 
-![image](image.png?raw=true)
+![image](TableuChallenge9.png)
 
 ### 10 (2 points)
 
-![image](image.png?raw=true)
+![image](TableuChallenge10.png)
 
 ### 11 (3 points)
 
-![image](image.png?raw=true)
+![image](TableuChallenge11.png)
 
 ### 12 (3 points)
 
-![image](image.png?raw=true)
+![image](TableuChallenge12.png)
 
 ### 13 (3 points)
 
-![image](image.png?raw=true)
+![image](TableuChallenge13.png)
 
 ### 14 (3 points)
 
-![image](image.png?raw=true)
+![image](TableuChallenge14.png)
 
 ### 15 (3 points)
 
-![image](image.png?raw=true)
+![image](TableuChallenge15.png)
 
 ### 16 (3 points)
 
-![image](image.png?raw=true)
+![image](TableuChallenge16.png)
 
 ### 17 (3 points)
 
-![image](image.png?raw=true)
+![image](TableuChallenge17.png)
 
 ### 18 (3 points)
 
-![image](image.png?raw=true)
+![image](TableuChallenge18.png)
 
 ### 19 (6 points)
 
-![image](image.png?raw=true)
+![image](TableuChallenge19.png)
 
 
 
@@ -128,12 +128,12 @@ fill-in-your-answer
 
 ### 1 (7 points)
 
-![image](image.png?raw=true)
+![image](GaussCheckpoint1.png)
 
 ### 2 (7 points)
 
-![image](image.png?raw=true)
+![image](GaussCheckpoint2.png)
 
 ### 3 (7 points)
 
-![image](image.png?raw=true)
+![image](IjsD3Checkpoint3.png)
