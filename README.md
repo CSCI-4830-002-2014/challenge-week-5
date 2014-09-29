@@ -6,7 +6,8 @@ Irfan Nadiadi
 
 86/100
 
-(Make your own calculation and replace the number 0 with the points you think you've earned.)
+- I couldn't complete the last two checkpoints
+
 
 # How many hours have you spent on this?
 
@@ -21,6 +22,7 @@ I wasn't able to figure out why Gauss wouldn't operate on the data I read in and
 ## Link (2 points)
 
 [How Students Listen](http://static.echonest.com/HowStudentsListen/)
+
 [Specific Link to CU Boulder](http://static.echonest.com/HowStudentsListen/school.html?school=university%20colorado%20boulder)
 
 ## What new knowledge or insight have you gained from this visualization? (6 points)
