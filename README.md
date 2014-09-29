@@ -4,17 +4,17 @@ Chris Wittenberg
 
 # How many points have you earned?
 
-79/100
+100/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+6 hours
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+Figuring out how to get strauss working.
 
 # Show and tell (8 points)
 
@@ -131,12 +131,12 @@ It gave me great insight into the wind patterns of the United States. I knew tha
 
 ### 1 (7 points)
 
-![image](image.png?raw=true)
+![image](C5ACheckpoint1.png?raw=true)
 
 ### 2 (7 points)
 
-![image](image.png?raw=true)
+![image](C5Checkpoint2.png?raw=true)
 
 ### 3 (7 points)
 
-![image](image.png?raw=true)
+![image](C5Checkpoint3.png?raw=true)
