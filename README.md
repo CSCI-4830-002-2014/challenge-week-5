@@ -1,30 +1,30 @@
 # Name
 
-write-your-name
+Sam Korn
 
 # How many points have you earned?
 
-0/100
+100/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+6
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+The Gauss section was the most difficult part of this assignment. The empty cells in the data set gave NaN errors that were difficult to locate.
 
 # Show and tell (8 points)
 
 ## Link (2 points)
 
-[title-of-the-article](http://link-to-an-interesting-visualization-involving-a-map)
+[Wind Map](http://hint.fm/wind/)
 
 ## What new knowledge or insight have you gained from this visualization? (6 points)
 
-fill-in-your-answer
+This allows me to see what the current wind patterns are for the continental United States. This would also potentially allow us to expect some upcoming weather.
 
 # Tableau (I) (7 points x 3 + 2 points x 10 + 3 points x 10 = 71 points)
 
@@ -32,93 +32,93 @@ fill-in-your-answer
 
 ### 1 (7 points)
 
-![image](image.png?raw=true)
+![image](TableuCheckpoint1.png)
 
 ### 2 (7 points)
 
-![image](image.png?raw=true)
+![image](TableuCheckpoint2.png)
 
 ### 3 (7 points)
 
-![image](image.png?raw=true)
+![image](TableuCheckpoint3.png)
 
 ## Challenges
 
 ### 1 (2 points)
 
-![image](image.png?raw=true)
+![image](TableuChallenge1.png)
 
 ### 2 (2 points)
 
-![image](image.png?raw=true)
+![image](TableuChallenge2.png)
 
 ### 3 (2 points)
 
-![image](image.png?raw=true)
+![image](TableuChallenge3.png)
 
 ### 4 (2 points)
 
-![image](image.png?raw=true)
+![image](TableuChallenge4.png)
 
 ### 5 (2 points)
 
-![image](image.png?raw=true)
+![image](TableuChallenge5.png)
 
 ### 6 (2 points)
 
-![image](image.png?raw=true)
+![image](TableuChallenge6.png)
 
 ### 7 (2 points)
 
-![image](image.png?raw=true)
+![image](TableuChallenge7.png)
 
 ### 8 (2 points)
 
-![image](image.png?raw=true)
+![image](TableuChallenge8.png)
 
 ### 9 (2 points)
 
-![image](image.png?raw=true)
+![image](TableuChallenge9.png)
 
 ### 10 (2 points)
 
-![image](image.png?raw=true)
+![image](TableuChallenge10.png)
 
 ### 11 (3 points)
 
-![image](image.png?raw=true)
+![image](TableuChallenge11.png)
 
 ### 12 (3 points)
 
-![image](image.png?raw=true)
+![image](TableuChallenge12.png)
 
 ### 13 (3 points)
 
-![image](image.png?raw=true)
+![image](TableuChallenge13.png)
 
 ### 14 (3 points)
 
-![image](image.png?raw=true)
+![image](TableuChallenge14.png)
 
 ### 15 (3 points)
 
-![image](image.png?raw=true)
+![image](TableuChallenge15.png)
 
 ### 16 (3 points)
 
-![image](image.png?raw=true)
+![image](TableuChallenge16.png)
 
 ### 17 (3 points)
 
-![image](image.png?raw=true)
+![image](TableuChallenge17.png)
 
 ### 18 (3 points)
 
-![image](image.png?raw=true)
+![image](TableuChallenge18.png)
 
 ### 19 (6 points)
 
-![image](image.png?raw=true)
+![image](TableuChallenge19.png)
 
 
 
@@ -128,12 +128,12 @@ fill-in-your-answer
 
 ### 1 (7 points)
 
-![image](image.png?raw=true)
+![image](GaussCheckpoint1.png)
 
 ### 2 (7 points)
 
-![image](image.png?raw=true)
+![image](GaussCheckpoint2.png)
 
 ### 3 (7 points)
 
-![image](image.png?raw=true)
+![image](IjsD3Checkpoint3.png)
