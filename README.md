@@ -1,16 +1,16 @@
 # Name
 
-write-your-name
+Michael Aaron
 
 # How many points have you earned?
 
-0/100
+100/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+3
 
 # What is the most difficult part about this week's challenge?
 
@@ -20,11 +20,11 @@ fill-in-your-answer
 
 ## Link (2 points)
 
-[title-of-the-article](http://link-to-an-interesting-visualization-involving-a-map)
+[Online Communities 2](http://xkcd.com/195/)
 
 ## What new knowledge or insight have you gained from this visualization? (6 points)
 
-fill-in-your-answer
+I always enjoy XKCD. This particular visualization is interesting as it allows for us to think about something as abstract as online communities in a spacial way. Reading the description of the post, it is interesting to see "Big Data", mixed with wide artistic liberty, result in a pseudo-informational map about the makeup of the internet circa 2010.
 
 # Tableau (I) (7 points x 3 + 2 points x 10 + 3 points x 10 = 71 points)
 
@@ -128,7 +128,7 @@ fill-in-your-answer
 
 ### 1 (7 points)
 
-![image](image.png?raw=true)
+![image](https://www.dropbox.com/s/mf527vgj4t2pknr/Screenshot%202014-09-28%2020.34.39.png?dl=1)
 
 ### 2 (7 points)
 
