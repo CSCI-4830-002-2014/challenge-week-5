@@ -10,21 +10,22 @@ Justin McBride
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+3 hours total around.
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+Finding the bad data in the Analysis section. 
 
 # Show and tell (8 points)
 
 ## Link (2 points)
 
-[title-of-the-article](http://link-to-an-interesting-visualization-involving-a-map)
+[Starbucks and McDonalds](http://www.princeton.edu/~ina/infographics/starbucks.html)
 
 ## What new knowledge or insight have you gained from this visualization? (6 points)
 
-fill-in-your-answer
+I learned that McDonalds may have a large presence in the USA, and a relatively small presence in the western European countries, but all those countries combined gives a larger percentage of the company's than the USA. Additionally, McDonalds nearly singlehandedly makes sales worth more than every other fast food chain combined.
+With regards to Starbucks, the company exhibited exponential growth over time and develops in the same locations as McDonalds.
 
 # Tableau (I) (7 points x 3 + 2 points x 10 + 3 points x 10 = 71 points)
 
@@ -119,10 +120,6 @@ fill-in-your-answer
 ### 19 (3 points)
 
 ![image](pics/tabch19.png?raw=true)
-
-### 20 (3 points)
-
-![image](pics/tabch20.png?raw=true)
 
 
 # Analysis 1
