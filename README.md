@@ -10,11 +10,11 @@ Adrian Chen
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+5
 
-# What is the most difficult part about this week's challenge?
+# What is the most difficult part about this week's challenge
 
-fill-in-your-answer
+The Tableau part was a little tricky at times.
 
 # Show and tell (8 points)
 
@@ -32,97 +32,97 @@ Porn companies gather and release data just like any other company.
 
 ### 1 (7 points)
 
-![image](image.png?raw=true)
+![image](HW5_CP1.PNG?raw=true)
 
 ### 2 (7 points)
 
-![image](image.png?raw=true)
+![image](HW5_CP2.PNG?raw=true)
 
 ### 3 (7 points)
 
-![image](image.png?raw=true)
+![image](HW5_CP3.PNG?raw=true)
 
 ## Challenges
 
 ### 1 (2 points)
 
-![image](image.png?raw=true)
+![image](HW5_CH1.PNG?raw=true)
 
 ### 2 (2 points)
 
-![image](image.png?raw=true)
+![image](HW5_CH2.PNG?raw=true)
 
 ### 3 (2 points)
 
-![image](image.png?raw=true)
+![image](HW5_CH3.PNG?raw=true)
 
 ### 4 (2 points)
 
-![image](image.png?raw=true)
+![image](HW5_CH4.PNG?raw=true)
 
 ### 5 (2 points)
 
-![image](image.png?raw=true)
+![image](HW5_CH5.PNG?raw=true)
 
 ### 6 (2 points)
 
-![image](image.png?raw=true)
+![image](HW5_CH6.PNG?raw=true)
 
 ### 7 (2 points)
 
-![image](image.png?raw=true)
+![image](HW5_CH7.PNG?raw=true)
 
 ### 8 (2 points)
 
-![image](image.png?raw=true)
+![image](HW5_CH8.PNG?raw=true)
 
 ### 9 (2 points)
 
-![image](image.png?raw=true)
+![image](HW5_CH9.PNG?raw=true)
 
 ### 10 (2 points)
 
-![image](image.png?raw=true)
+![image](HW5_CH10.PNG?raw=true)
 
 ### 11 (3 points)
 
-![image](image.png?raw=true)
+![image](HW5_CH11.PNG?raw=true)
 
 ### 12 (3 points)
 
-![image](image.png?raw=true)
+![image](HW5_CH12.PNG?raw=true)
 
 ### 13 (3 points)
 
-![image](image.png?raw=true)
+![image](HW5_CH13.PNG?raw=true)
 
 ### 14 (3 points)
 
-![image](image.png?raw=true)
+![image](HW5_CH14.PNG?raw=true)
 
 ### 15 (3 points)
 
-![image](image.png?raw=true)
+![image](HW5_CH15.PNG?raw=true)
 
 ### 16 (3 points)
 
-![image](image.png?raw=true)
+![image](HW5_CH16.PNG?raw=true)
 
 ### 17 (3 points)
 
-![image](image.png?raw=true)
+![image](HW5_CH17.PNG?raw=true)
 
 ### 18 (3 points)
 
-![image](image.png?raw=true)
+![image](HW5_CH18.PNG?raw=true)
 
 ### 19 (3 points)
 
-![image](image.png?raw=true)
+![image](HW5_CH19.PNG?raw=true)
 
 ### 20 (3 points)
 
-![image](image.png?raw=true)
+No challenge 20.
 
 
 # Analysis 1
@@ -131,12 +131,12 @@ Porn companies gather and release data just like any other company.
 
 ### 1 (7 points)
 
-![image](image.png?raw=true)
+![image](HW5_CP4.png?raw=true)
 
 ### 2 (7 points)
 
-![image](image.png?raw=true)
+![image](HW5_CP5.png?raw=true)
 
 ### 3 (7 points)
 
-![image](image.png?raw=true)
+![image](HW5_CP6.png?raw=true)
