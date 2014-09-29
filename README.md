@@ -137,4 +137,4 @@ fill-in-your-answer
 
 ### 3 (7 points)
 
-![image](Week5ChallengeScreenShots/C.bmp)
+![image](Week5ChallengeScreenShots/analysisC3.png)
