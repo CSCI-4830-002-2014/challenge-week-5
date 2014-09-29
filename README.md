@@ -4,27 +4,27 @@ Logan Bates
 
 # How many points have you earned?
 
-0/100
+100/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+4
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+Trying to figure find the two NaN values located in my large age file for the analysis checkpoints.
 
 # Show and tell (8 points)
 
 ## Link (2 points)
 
-[title-of-the-article](http://link-to-an-interesting-visualization-involving-a-map)
+[title-of-the-article](https://secure.flickr.com/photos/walkingsf/5912385701/in/set-72157627140310742/)
 
 ## What new knowledge or insight have you gained from this visualization? (6 points)
 
-fill-in-your-answer
+Facebook is wildy popular in many countries of the world while flickr only seems to be popular in certain countries and nearly unused in other countries. It also shows the global distrubution of technology and social media. 
 
 # Tableau (I) (7 points x 3 + 2 points x 10 + 3 points x 10 = 71 points)
 
@@ -128,12 +128,12 @@ fill-in-your-answer
 
 ### 1 (7 points)
 
-![image](image.png?raw=true)
+![image](checkpoint1A.png?raw=true)
 
 ### 2 (7 points)
 
-![image](image.png?raw=true)
+![image](checkpoint2A.png?raw=true)
 
 ### 3 (7 points)
 
-![image](image.png?raw=true)
+![image](checkpoint3A.png?raw=true)
