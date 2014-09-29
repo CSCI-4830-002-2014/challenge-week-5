@@ -4,17 +4,17 @@ Irfan Nadiadi
 
 # How many points have you earned?
 
-79/100
+86/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+4
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+I wasn't able to figure out why Gauss wouldn't operate on the data I read in and the d3 dependency wouldn't install for i.js, so I wasn't able to get that working either.
 
 # Show and tell (8 points)
 
@@ -129,12 +129,12 @@ Spotify, a music streaming application, collected data on the music listened to 
 
 ### 1 (7 points)
 
-![image](image.png?raw=true)
+![image](gauss/Check\ 1.png)
 
 ### 2 (7 points)
-
-![image](image.png?raw=true)
+I copied the age data into a text file and was able to successfully read it in, but calling any methods kept returning NaN and I'm not sure what I was doing wrong.
+![image](gauss/Check\ 2.png)
 
 ### 3 (7 points)
-
-![image](image.png?raw=true)
+While I was able to use node to run i.js on port 3000, every time I ran %init_d3, the server would crash. I believe this is because for some reason (that's beyond me right now), I can't install the d3 dependency.
+![image](gauss/Check\ 3.png)
