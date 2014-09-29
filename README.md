@@ -138,3 +138,6 @@ I copied the age data into a text file and was able to successfully read it in, 
 ### 3 (7 points)
 While I was able to use node to run i.js on port 3000, every time I ran %init_d3, the server would crash. I believe this is because for some reason (that's beyond me right now), I can't install the d3 dependency.
 ![image](gauss/Check\ 3.png)
+
+Here's a screenshot of the terminal after running %init_d3
+![image](gauss/Problem\ Screenshot.png)
