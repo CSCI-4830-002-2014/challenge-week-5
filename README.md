@@ -4,7 +4,7 @@ Niklas Fejes
 
 # How many points have you earned?
 
-92/100
+100/100
 
 # How many hours have you spent on this?
 
@@ -18,11 +18,11 @@ Setting up Windows (Tableau does not support Linux)
 
 ## Link (2 points)
 
-[title-of-the-article](http://link-to-an-interesting-visualization-involving-a-map)
+[Carbon map – which countries are responsible for climate change?](http://www.theguardian.com/environment/ng-interactive/2014/sep/23/carbon-map-which-countries-are-responsible-for-climate-change)
 
 ## What new knowledge or insight have you gained from this visualization? (6 points)
 
-fill-in-your-answer
+How the carbon footprint and emission impact varies between different parts of the world. The visualization itself is also very interesting since it distorts the map so that the size of the country is proportional to the measure, and it allows the user to interactively change the "size" measure and the color map measure.
 
 # Tableau (I) (7 points x 3 + 2 points x 10 + 3 points x 10 = 71 points)
 
