@@ -87,39 +87,39 @@ fill-in-your-answer
 
 ### 11 (3 points)
 
-![image](Wee5ChallengeScreenShots/C11.bmp)
+![image](Week5ChallengeScreenShots/C11.bmp)
 
 ### 12 (3 points)
 
-![image](Wee5ChallengeScreenShots/C12.bmp)
+![image](Week5ChallengeScreenShots/C12.bmp)
 
 ### 13 (3 points)
 
-![image](Wee5ChallengeScreenShots/C13.bmp)
+![image](Week5ChallengeScreenShots/C13.bmp)
 
 ### 14 (3 points)
 
-![image](Wee5ChallengeScreenShots/C14.bmp)
+![image](Week5ChallengeScreenShots/C14.bmp)
 
 ### 15 (3 points)
 
-![image](Wee5ChallengeScreenShots/C15.bmp)
+![image](Week5ChallengeScreenShots/C15.bmp)
 
 ### 16 (3 points)
 
-![image](Wee5ChallengeScreenShots/C16.bmp)
+![image](Week5ChallengeScreenShots/C16.bmp)
 
 ### 17 (3 points)
 
-![image](Wee5ChallengeScreenShots/C17.bmp)
+![image](Week5ChallengeScreenShots/C17.bmp)
 
 ### 18 (3 points)
 
-![image](Wee5ChallengeScreenShots/C18.bmp)
+![image](Week5ChallengeScreenShots/C18.bmp)
 
 ### 19 (6 points)
 
-![image](Wee5ChallengeScreenShots/C19.bmp)
+![image](Week5ChallengeScreenShots/C19.bmp)
 
 
 
