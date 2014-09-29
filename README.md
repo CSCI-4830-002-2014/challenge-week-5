@@ -135,8 +135,8 @@ It gave me great insight into the wind patterns of the United States. I knew tha
 
 ### 2 (7 points)
 
-![image](C5Checkpoint2.png?raw=true)
+![image](C5ACheckpoint2.png?raw=true)
 
 ### 3 (7 points)
 
-![image](C5Checkpoint3.png?raw=true)
+![image](C5ACheckpoint3.png?raw=true)
