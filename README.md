@@ -20,7 +20,7 @@ Trying to figure find the two NaN values located in my large age file for the an
 
 ## Link (2 points)
 
-[title-of-the-article](https://secure.flickr.com/photos/walkingsf/5912385701/in/set-72157627140310742/)
+[Maps of flickr and Twitter usages](https://secure.flickr.com/photos/walkingsf/5912385701/in/set-72157627140310742/)
 
 ## What new knowledge or insight have you gained from this visualization? (6 points)
 
