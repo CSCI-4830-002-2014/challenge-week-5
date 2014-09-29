@@ -4,7 +4,7 @@ Daniel Nolan
 
 # How many points have you earned?
 
-86/100
+100/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
@@ -24,7 +24,7 @@ Trying to get the gauss functions to work with the exported Age file from the Ol
 
 ## What new knowledge or insight have you gained from this visualization? (6 points)
 
-fill-in-your-answer
+With Polymaps you can take data, such as road infrastructure in the site example, and identify through GeoMaps and the data where the best and worst kept road sections are in a given town. You can take any data you need to see displayed over a geographic area and find exactly what you are looking for through this type of visualization.
 
 # Tableau (I) (7 points x 3 + 2 points x 10 + 3 points x 10 = 71 points)
 
@@ -132,8 +132,10 @@ fill-in-your-answer
 
 ### 2 (7 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/0NvpemR.png)
+I got NaN for all asked-for calculations. I am not sure why this happened, but I assume it was from an empty data set that I could not get removed from my data.
 
 ### 3 (7 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/8CCYjxn.png)
+I easily found out how to alter the data to output 10 numbers instead of 6. But the graph would not output due to i.js not being able to find my modules for d3 even though I found them in the i.js files that I downloaded through the instructions for Git. Is this just due to my computer?
