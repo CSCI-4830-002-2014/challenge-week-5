@@ -133,7 +133,7 @@ fill-in-your-answer
 
 ### 2 (7 points)
 
-![image](Wee5ChallengeScreenShots/AnalysisC2.bmp)
+![image](Wee5ChallengeScreenShots/AnalysisC2.png)
 
 ### 3 (7 points)
 

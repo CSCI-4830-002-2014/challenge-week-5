@@ -133,8 +133,8 @@ fill-in-your-answer
 
 ### 2 (7 points)
 
-![image](Wee5ChallengeScreenShots/AnalysisC2.png)
+![image](Week5ChallengeScreenShots/AnalysisC2.png)
 
 ### 3 (7 points)
 
-![image](Wee5ChallengeScreenShots/C.bmp)
+![image](Week5ChallengeScreenShots/C.bmp)
